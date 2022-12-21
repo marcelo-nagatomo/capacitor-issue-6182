@@ -37,9 +37,10 @@ iOS version: 15.4
 On terminal
 
 1. `git clone https://github.com/marcelo-nagatomo/capacitor-issue-6182.git`
-2. `npm install`
-3. `ionic capacitor sync ios`
-4. `ionic capacitor open ios`
+2. `cd capacitor-issue-6182`
+3. `npm install`
+4. `ionic capacitor sync ios`
+5. `ionic capacitor open ios`
 
 
 On XCode
@@ -62,4 +63,3 @@ rm -Rf ios
 ionic capacitor add ios
 ionic capacitor open ios
 ```
-
